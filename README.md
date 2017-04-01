@@ -1,2 +1,4 @@
 # NetworkMerge
-attempt to create a python script to use multiple network interfaces
+Attempt to create a python script to use multiple network interfaces at the same time.
+
+
